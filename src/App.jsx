@@ -48,9 +48,9 @@ return (
         <Button label="2" onClick={() => handleClick("Making An Effort")} />
         <Button label="3" onClick={() => handleClick("Being High Energy")} />
 
-        <Button label="NAME" onClick={() => handleClick("CHARLENE LUGTU")} />
+        <Button label="CHARLENE LUGTU" onClick={() => handleClick("CHARLENE LUGTU")} />
         <Button label="0" onClick={() => handleClick("Having A Strong Work Ethic")} />
-        <Button label="SUBJ" onClick={() => handleClick("C-PCIT9")} />
+        <Button label="C-PCIT9" onClick={() => handleClick("C-PCIT9")} />
       </div>
     </div>
   </div>
